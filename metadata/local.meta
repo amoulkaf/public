@@ -1,0 +1,29 @@
+[props/feodo_tracker]
+owner = admin
+version = 8.0.2
+modtime = 1638966715.854707700
+
+[props/source%3A%3A...ta-feodotracker%2A.log%2A]
+owner = admin
+version = 8.0.2
+modtime = 1638953862.942098800
+
+[props/source%3A%3A...ta_feodotracker%2A.log%2A]
+owner = admin
+version = 8.0.2
+modtime = 1638953863.244806900
+
+[indexes/feodo_tracklist]
+owner = admin
+version = 8.0.2
+modtime = 1638954026.936375600
+
+[inputs/feodo_tracker%3A%2F%2Ffeodo_tracklist]
+owner = admin
+version = 8.0.2
+modtime = 1638955048.161406000
+
+[props/feodo_tracker_2]
+owner = admin
+version = 8.0.2
+modtime = 1638968568.426340700
